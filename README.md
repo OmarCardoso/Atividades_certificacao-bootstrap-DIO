@@ -1,2 +1,2 @@
-# Atividades realizadas na Certificaçãp -bootstrap - DIO
+# Atividades realizadas na Certificação -bootstrap - DIO
 
