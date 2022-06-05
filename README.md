@@ -1,2 +1,2 @@
-# Certificaçãp -bootstrap - DIO
-utilizando bootstrap
+# Atividades realizadas na Certificaçãp -bootstrap - DIO
+
